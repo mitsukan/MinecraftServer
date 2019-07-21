@@ -1,1 +1,4 @@
 *.tfvars
+AWS/.terraform/*
+*.tfstate
+*.tfstate.backup
